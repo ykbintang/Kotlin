@@ -15,7 +15,7 @@ fun main() {
     val lastName = "Bintang"
 
     // error jika mengubah variable
-    lastName = "Kasnanda Bintang"       // error
+    lastName = "Kasnanda Bintang"   // error karena mengubah variable "val" yang bersifat immutable
 
     // #3 Nullable
     var firstName: String? = "Yayes"

@@ -20,8 +20,12 @@ fun main() {
     println(firstName)      // output: Yayes
     println(lastName)       // output: Bintang
     println(fullName)       // output: Yayes Kasnanda Bintang
-    println(address1)       // output: Kabupaten Klaten, (Enter) ...
-    println(address2)       // output: Kabupaten Klaten, (Enter) ...
+    println(address1)       /* output: Kabupaten Klaten,
+                                        Provinsi Jawa Tengah,
+                                        Negara Indonesia */
+    println(address2)       /* output: Kabupaten Klaten,
+                                        Provinsi Jawa Tengah,
+                                        Negara Indonesia */
 
     // #2 Menggabungkan String
     var firstName: String = "Yayes"

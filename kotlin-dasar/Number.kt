@@ -3,15 +3,15 @@ package com.dicoding.kotlin
 fun main() {
 
     // #1 Underscore in Number
-//    var age: Byte = 30
-//    var height: Int = 170
-//    var distance: Short = 2000
-//    var balance: Long = 100000000L
+    var age: Byte = 30
+    var height: Int = 170
+    var distance: Short = 2000
+    var balance: Long = 100000000L
 
-//    println(age)        // output: 30
-//    println(height)     // output: 170
-//    println(distance)   // output: 2000
-//    println(balance)    // output: 100000000
+    println(age)        // output: 30
+    println(height)     // output: 170
+    println(distance)   // output: 2000
+    println(balance)    // output: 100000000
 
     // #2 Floating Point Number
     var value: Float = 98.98F
