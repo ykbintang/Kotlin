@@ -1,6 +1,7 @@
 package com.dicoding.kotlin
 
 fun main() {
+
     var char1: Char = 'Y';
     var char2: Char = '4';
     var char3: Char = 'Y';
@@ -12,4 +13,7 @@ fun main() {
     print(char3)
     print(char4)
     print(char5)
+
+    // output: Y4Y3S
+
 }
