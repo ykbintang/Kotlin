@@ -1,10 +1,19 @@
 package com.dicoding.kotlin
 
+// ## When Expression
+/*
+    => Selain if expression, untuk melakukan percabangan di Kotlin, kita juga bisa
+        menggunakan When Expression
+    => When expression sangat sederhana dibandingkan if
+    => Biasanya when expression digunakan untuk melakukan pengecekan ke kondisi dalam
+        satu variable
+ */
+
 fun main() {
 
     var finalExam = 'A'
 
-    /* #1 When Expression */
+    /* #1 Contoh When Expression */
     when (finalExam) {
         'A' -> println("Amazing")
         'B' -> println("Good")
@@ -15,7 +24,7 @@ fun main() {
     }
     // output: Amazing
 
-    /* #2 When Expression Multiple Option */
+    /* #2 Contoh When Expression Multiple Option */
     finalExam = 'D'
     when (finalExam) {
         'A', 'B', 'C' -> println("Congratulations, you passed the final exam")
@@ -25,7 +34,7 @@ fun main() {
     }
     // output: Sorry, you didn't pass the final exam
 
-    /* #3 When Expression In */
+    /* #3 Contoh When Expression In */
     finalExam = 'B'
     val passValues = arrayOf('A', 'B', 'C')
     when (finalExam) {
@@ -34,7 +43,7 @@ fun main() {
     }
     // output: Pass
 
-    /* #4 When Expression Is */
+    /* #4 contoh When Expression Is */
     val name = "Bintang"
     when (name) {
         is String -> println("This is String")
@@ -42,7 +51,13 @@ fun main() {
     }
     // output: This is String
 
-    /* #5 When Sebagai Pengganti If Else */
+    /*
+        => Selain pengecekan terhadap variable
+        => When juga dapat digunakan sebagai pengganti if else
+        => Untuk mengganti if else dengan when, kita tidak perlu menggunakan variable dalam when
+     */
+
+    /* #5 Contoh When Sebagai Pengganti If Else */
     val examValue = 55
     when {
         examValue > 90 -> println("Amazing")

@@ -2,7 +2,7 @@ package com.dicoding.kotlin
 
 fun main() {
 
-    // #1 Underscore in Number
+    // #1 Contoh Number
     var age: Byte = 30
     var height: Int = 170
     var distance: Short = 2000
@@ -13,14 +13,14 @@ fun main() {
     println(distance)   // output: 2000
     println(balance)    // output: 100000000
 
-    // #2 Floating Point Number
+    // #2 Contoh Floating Point Number (angka desimal)
     var value: Float = 98.98F
     var radius: Double = 2342342343.54535
 
     println(value)        // output: 98.98
     println(radius)       // output: 2.34234234354535E9
 
-    // #3 Literals
+    // #3 Contoh Literals ()
     var decimalLiteral: Int = 100
     var hexadecimalLiteral: Int = 0xFF
     var binaryLiteral: Int = 0b0001
@@ -29,7 +29,7 @@ fun main() {
     println(hexadecimalLiteral)   // output: 255
     println(binaryLiteral)        // output: 1
 
-    // #4 Underscore in Number
+    // #4 Contoh Underscore in Number (agar lebih mudah dibaca)
     var age: Byte = 3_0
     var height: Int = 1_7_0
     var distance: Short = 2_000
@@ -40,7 +40,7 @@ fun main() {
     println(distance)     // output: 2000
     println(balance)      // output: 100000000
 
-    // #5 Conversion
+    // #5 Contoh Conversion (konversi)
     var number: Int = 100
 
     var byte: Byte = number.toByte()

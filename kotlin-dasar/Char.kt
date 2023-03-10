@@ -1,7 +1,14 @@
 package com.dicoding.kotlin
 
+// ## Tipe Data Character
+/*
+    => Data karakter (huruf), di Kotlin direpresentasikan oleh tipe Char.
+    => Untuk membuat data Char, di Kotlin kita bisa menggunakan tanda petik satu (')
+ */
+
 fun main() {
 
+    // Contoh char
     var char1: Char = 'Y';
     var char2: Char = '4';
     var char3: Char = 'Y';

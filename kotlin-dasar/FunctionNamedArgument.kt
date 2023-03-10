@@ -1,5 +1,11 @@
 package com.dicoding.kotlin
 
+// ## Function Named Argument
+/*
+    => Named Argument adalah fitur dimana kita bisa menyebutkan nama parameter saat memanggil
+        function, dengan demikian kita tidak wajib tahu posisi tiap parameter
+ */
+
 fun fullName(
     firstName: String,
     middleName: String,
@@ -11,7 +17,7 @@ fun fullName(
 fun main() {
     fullName("Yayes", "Kasnanda", "Bintang")
 
-    // #1 Function Named Argument
+    // Contoh function named argument
     fullName(
         lastName = "Bintang",
         firstName = "Yayes",

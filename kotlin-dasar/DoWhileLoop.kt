@@ -1,10 +1,17 @@
 package com.dicoding.kotlin
 
+// ## Do While Loop
+/*
+    => Do While Loop adalah perulangan yang hampir sama dengan While Loop
+    => Yang membedakan adalah, pada Do While Loop, kode blok akan dijalankan
+        dahulu, baru diakhir dilakukan pengecekan kondisi
+ */
+
 fun main() {
 
     var i = 0
 
-    // #1 Do While
+    // Contoh do.. while.. loop
     do {
         println("Perulangan ke $i")
         i++

@@ -1,8 +1,18 @@
 package com.dicoding.kotlin
 
+// ## Operasi Matematika
+/*
+    Daftar operator matematika:
+    + -> penjumlahan
+    - -> pengurangan
+    * -> perkalian
+    / -> pembagian
+    % -> sisa hasil bagi
+ */
+
 fun main() {
 
-    // #1 Operasi Matematika
+    // #1 Contoh Operasi Matematika
     val result: Int = 10 / 3
     println(result)             // output: 3
 
@@ -18,7 +28,7 @@ fun main() {
     val result4 = 100 % 7
     println(result4)            // output: 2
 
-    // #2 Augmented Assignments
+    // #2 Contoh Augmented Assignments
     var total: Int = 0
 
     var barang1 = 300
@@ -32,7 +42,7 @@ fun main() {
 
     println(total)          // output: 200
 
-    // #4 Unary Operator
+    // #3 Contoh Unary Operator
     // ++ (increment)
     var a = 10
     a++
@@ -47,7 +57,7 @@ fun main() {
     b--
     println(b)              // output: 7
 
-    // ! (not)
+    // ! (boolean kebalikan/not)
     val sehat = true
     println(!sehat)         // output: false
 

@@ -1,10 +1,14 @@
 package com.dicoding.kotlin
 
+// ## Operaor Logika
 /*
-    Daftar Operasi Boolean:
+    => Operator logika adalah operator untuk dua buah data boolean
+    => Hasil dari operator logika adalah boolean lagi
+
+    Daftar Operator Logika:
     && -> (dan)
     || -> (atau)
-    !  -> (negasi)
+    !  -> (negasi/not/kebalikan)
  */
 
 fun main() {
@@ -17,15 +21,15 @@ fun main() {
     val passAttendance = attendance > 75
     val passExtracurricular = extracurricular > 75
 
-    // #1 && (AND)
+    // #1 Contoh operasi AND (&&)
     val passInSchoolA = passFinalExam && passAttendance && passExtracurricular
     println(passInSchoolA)            // output: false
 
-    // #2 || (OR)
+    // #2 Contoh operasi OR (||)
     val passInSchoolB = passFinalExam && passAttendance || passExtracurricular
     println(passInSchoolB)            // output: true
 
-    // #3 ! (NOT)
+    // #3 Contoh operasi NOT (!)
     val hungry = true
     println(!hungry)            // output: false
 

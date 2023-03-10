@@ -1,5 +1,13 @@
 package com.dicoding.kotlin
 
+// ## Break & Continue
+/*
+=> Break & continue adalah kata kunci yang bisa digunakan dalam semua perulangan di Kotlin
+=> Break digunakan untuk menghentikan seluruh perulangan
+=> Continue adalah digunakan untuk menghentikan perulangan yang berjalan, dan langsung
+    melanjutkan ke perulangan selanjutnya
+ */
+
 fun main() {
 
     // #1 Break

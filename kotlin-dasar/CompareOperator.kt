@@ -1,6 +1,12 @@
 package com.dicoding.kotlin
 
+// ## Operator Perbandingan
 /*
+    => Operasi perbandingan adalah operasi untuk membandingkan dua buah data
+    => Operasi perbandingan adalah operasi yang menghasilkan nilai boolean (benar atau salah)
+    => Jika hasil operasinya adalah benar, maka nilainya adalah true
+    => Jika hasil operasinya adalah salah, maka nilainya adalah false
+
     Daftar Operator Perbandingan:
     > (lebih dari)
     < (kurang dari)
@@ -12,10 +18,10 @@ package com.dicoding.kotlin
 
 fun main() {
 
-    // #1 Operator Perbandingan
     val a = 100
     val b = 200
 
+    // Contoh Operator Perbandingan
     val result: Boolean = a > b
     println(result)                 // output: false
 

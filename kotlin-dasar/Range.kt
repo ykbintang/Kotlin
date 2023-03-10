@@ -1,11 +1,21 @@
 package com.dicoding.kotlin
 
+// ## Tipe Data Range
+/*
+    => Kadang kita ingin membuat array yang berisi data yang angka berurutan
+    => Membuat array dengan jumlah data sedikit mungkin mudah, tapi bagaimana jika data angka yang berurutannya sangat banyak, misal dari 1 sampai 1000
+    => Kotlin mendukung tipe data range, yang digunakan untuk kebutuhan seperti ini
+    => Cara membuat range di Kotlin sangat mudah cukup menggunakan tanda .. (titik dua kali) :
+        - 0..10 : Range dari 0 sampai 10
+        - 1..100 : Range dari 1 sampai 100
+ */
+
 fun main() {
 
-    // #1 Membuat Range (rentang)
+    // #1 Contoh Range (rentang)
     val range = 0..100
 
-    // #2 Operasi Range
+    // #2 Contoh Operasi Range
     // count() -> mendapatkan total data di range
     println(range.count())      // output: 101
 
@@ -22,7 +32,7 @@ fun main() {
     // step -> mendapatkan nilai tiap kenaikan
     println(range.step)         // output: 1
 
-    // #3 Range Terbalik
+    // #3 Contoh Range Terbalik
     val reverseRange = 1000 downTo 0
 
     println(reverseRange.count())           // output: 1001
@@ -32,7 +42,7 @@ fun main() {
     println(reverseRange.last)              // output: 0
     println(reverseRange.step)              // output: -1
 
-    // #4 Range Dengan Step
+    // #4 Contoh Range Dengan Step
     val rangeWithStep1 = 0..100 step 2
 
     println(rangeWithStep1.count())           // output: 51
