@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## When Expression
 /*
     => Selain if expression, untuk melakukan percabangan di Kotlin, kita juga bisa

@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Lambda Expression
 /*
     => Function di kotlin adalah first-class citizens, artinya dianggap seperti tipe data yang lainnya.

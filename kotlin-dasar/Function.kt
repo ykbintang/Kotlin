@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Function
 /*
     => Function adalah sebuah blok kode yang sengaja dibuat dalam program agar bisa

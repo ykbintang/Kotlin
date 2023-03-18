@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Tail Recursive Function
 /*
     => Recursive function adalah salah satu kemampuan bagus di Kotlin, namun sayangnya ada

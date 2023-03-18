@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Function Default Parameter
 /*
     => Di Kotlin, function parameter wajib diisi ketika memanggil function

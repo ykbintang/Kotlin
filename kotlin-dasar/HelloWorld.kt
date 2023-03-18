@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Program Hello Wolrd
 
 fun main() {

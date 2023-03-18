@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Function Parameter
 /*
     => Saat membuat function, kadang-kadang kita membutuhkan data dari luar, atau kita

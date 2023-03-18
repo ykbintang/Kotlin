@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // #1 Inline Function
 /*
     => Menggunakan Higher-Order Function adalah salah satu fitur yang sangat berguna.

@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Recursive Function
 /*
     => Recursive function adalah function yang memanggil function dirinya sendiri

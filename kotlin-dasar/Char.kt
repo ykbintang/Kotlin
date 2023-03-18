@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Tipe Data Character
 /*
     => Data karakter (huruf), di Kotlin direpresentasikan oleh tipe Char.

@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Operaor Logika
 /*
     => Operator logika adalah operator untuk dua buah data boolean

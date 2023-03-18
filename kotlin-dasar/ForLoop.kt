@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## For Loop
 /*
     => Dalam bahasa pemrograman, biasanya ada fitur yang bernama perulangan

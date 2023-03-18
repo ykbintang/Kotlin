@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Comment In Kotlin
 /*
     => Komentar terbaik pada kode adalah kode itu sendiri

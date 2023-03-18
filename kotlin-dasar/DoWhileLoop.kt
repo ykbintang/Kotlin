@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Do While Loop
 /*
     => Do While Loop adalah perulangan yang hampir sama dengan While Loop

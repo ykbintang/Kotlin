@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Label
 /*
     => Label adalah penanda

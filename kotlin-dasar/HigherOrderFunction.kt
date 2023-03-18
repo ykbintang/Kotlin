@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Higher-Order Functions
 /*
     => Higher-Order Function adalah function yang menggunakan function sebagai parameter atau mengembalikan function

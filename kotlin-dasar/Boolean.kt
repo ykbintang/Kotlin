@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Tipe Data Boolean
 /*
     => Tipe data boolean adalah tipe data yang hanya memiliki 2 nilai, yaitu benar atau salah

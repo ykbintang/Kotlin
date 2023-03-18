@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Function Scope
 /*
     - Function scope adalah ruang lingkup dimana sebuah function bisa diakses

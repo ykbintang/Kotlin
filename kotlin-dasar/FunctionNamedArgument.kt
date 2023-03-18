@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Function Named Argument
 /*
     => Named Argument adalah fitur dimana kita bisa menyebutkan nama parameter saat memanggil

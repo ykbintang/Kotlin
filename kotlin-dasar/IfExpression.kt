@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## If Expression
 /*
     => Dalam Kotlin, if adalah salah satu kata kunci yang digunakan untuk percabangan

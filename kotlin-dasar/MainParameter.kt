@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 //## Main Parameters
 /*
     => Kadang saat menjalankan program, kita butuh input parameter dari luar

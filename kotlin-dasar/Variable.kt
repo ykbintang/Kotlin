@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Variable
 /*
     => Variable adalah tempat untuk menyimpan data

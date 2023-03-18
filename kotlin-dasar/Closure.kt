@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Closure
 /*
     => Closure adalah kemampuan sebuah function, lambda atau anonymous function berinteraksi

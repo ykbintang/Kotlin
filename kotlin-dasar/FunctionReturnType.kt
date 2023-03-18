@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Function Return Type
 /*
     => Untuk memberitahu bahwa function mengembalikan data, kita harus menuliskan

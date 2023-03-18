@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Operator Perbandingan
 /*
     => Operasi perbandingan adalah operasi untuk membandingkan dua buah data

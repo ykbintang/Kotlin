@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Function Infix Notation
 /*
     - Infix Notation adalah operasi yang biasa dilakukan di operasi matematika, dimana

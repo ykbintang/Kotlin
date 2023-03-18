@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Operasi Matematika
 /*
     Daftar operator matematika:

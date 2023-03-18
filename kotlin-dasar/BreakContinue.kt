@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Break & Continue
 /*
 => Break & continue adalah kata kunci yang bisa digunakan dalam semua perulangan di Kotlin

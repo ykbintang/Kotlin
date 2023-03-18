@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Tipe Data Array
 /*
     => Array adalah tipe data yang berisikan kumpulan data dengan tipe yang sama

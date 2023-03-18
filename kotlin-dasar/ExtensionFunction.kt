@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Extension Function
 /*
     - Extension function adalah kemampuan menambahkan function pada tipe data

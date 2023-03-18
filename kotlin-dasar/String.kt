@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Tipe Data String
 /*
     => Tipe data string adalah tipe data yang berisikan data kumpulan karakter atau sederhananya adalah teks.

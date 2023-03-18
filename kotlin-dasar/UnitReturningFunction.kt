@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Unit Returning Function
 /*
     => Function ada 2 jenis, pertama tidak mengembalikan nilai, yang kedua mengembalikan nilai

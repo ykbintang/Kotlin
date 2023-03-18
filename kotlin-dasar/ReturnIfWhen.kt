@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Return If & When
 /*
     => Kadang salam sebuah function, kita sering menggunakan If expression atau when expression,

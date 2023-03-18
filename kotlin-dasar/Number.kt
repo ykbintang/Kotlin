@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 fun main() {
 
     // #1 Contoh Number

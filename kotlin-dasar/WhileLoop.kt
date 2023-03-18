@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## While Loop
 /*
     => While adalah salah satu perulangan lain yang ada di Kotlin

@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Tipe Data Range
 /*
     => Kadang kita ingin membuat array yang berisi data yang angka berurutan

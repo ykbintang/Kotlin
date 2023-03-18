@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Function Varargs Parameter
 /*
     => Parameter yang berada di posisi terakhir, memiliki kemampuan dijadikan sebuah varargs

@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Anonymous Function
 /*
     => Lambda akan menganggap baris terakhir di blok lambda sebagai hasil kembalian

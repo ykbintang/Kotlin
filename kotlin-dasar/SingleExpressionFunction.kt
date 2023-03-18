@@ -1,5 +1,3 @@
-package com.dicoding.kotlin
-
 // ## Single Expression Function
 /*
     => Single expression function adalah deklarasi function hanya dengan 1 baris kode
